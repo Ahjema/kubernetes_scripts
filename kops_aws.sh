@@ -4,7 +4,7 @@
 # 1) an AWS account
 # 2) user in AWS account (go to IAM menu and make one) 
 # 2a) Follow this: https://github.com/kubernetes/kops/blob/master/docs/aws.md#setup-your-environment
-# 3) DOnt go too crazy, just need the user, S3 bucket and route 53.
+# 3) Dont go too crazy, just need the user, S3 bucket and route 53.
 
 ###### Setting Variables for your AWS
 #your domain like omg.com
